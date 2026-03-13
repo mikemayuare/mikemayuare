@@ -2,8 +2,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  import pandas as pd  •  from sklearn import everything     ║
-║  data = curiosity.load()  •  insights = model.fit(world)   ║
+║  import pandas as pd  •  from sklearn import everything      ║
+║  data = curiosity.load()  •  insights = model.fit(world)     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
