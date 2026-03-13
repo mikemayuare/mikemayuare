@@ -83,8 +83,8 @@ profile = {
 
 ⭐ **26 stars** · 🍴 **4 forks**
 
-[Journal Publication](https://www.nature.com/articles/s41598-024-76440-8)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge) Related Models](https://huggingface.co/mikemayuare/models)
+[![Nature](https://img.shields.io/badge/Nature-3776AB?style=for-the-badge&logo=nature&logoColor=white)](https://www.nature.com/articles/s41598-024-76440-8)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co/mikemayuare/models)
 </td>
 <td width="50%">
 
