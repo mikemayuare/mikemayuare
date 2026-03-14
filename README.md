@@ -91,14 +91,25 @@ profile = {
 </td>
 <td width="50%">
 
+### 🧬 [Colorectal Cancer Prediction](https://github.com/mikemayuare/colorectal-cancer-prediction)
+> End-to-end **MLOps pipeline** for colorectal cancer survival prediction — Optuna tuning, MLflow tracking, Flask UI, Docker & Kubeflow orchestration.
+
+`Python` `MLOps` `Scikit-Learn` `Flask` `Docker` `Kubeflow`
+
+[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)](https://github.com/mikemayuare/colorectal-cancer-prediction)
+[![Kubeflow](https://img.shields.io/badge/Kubeflow-blue?style=for-the-badge&logo=kubeflow&logoColor=white)](https://github.com/mikemayuare/colorectal-cancer-prediction)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🏨 [Hotel Reservation Prediction](https://github.com/mikemayuare/hotel-res-prediction)
 > End-to-end ML pipeline deployable on the cloud with **CI/CD** integration.
 
 `Python` `MLOps` `Cloud` `Scikit-Learn`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🦋 [Moths Classifier](https://github.com/mikemayuare/moths_classifier)
@@ -107,6 +118,8 @@ profile = {
 `Python` `TensorFlow` `Computer Vision` `Deep Learning`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📝 [Text Summarizer](https://github.com/mikemayuare/text-summarizer)
@@ -115,8 +128,6 @@ profile = {
 `Python` `NLP` `Transformers` `Jupyter`
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎮 [Pokémon Dashboard](https://github.com/mikemayuare/pokemon_dashboard)
@@ -125,6 +136,8 @@ profile = {
 `Python` `Data Visualization` `Dashboard`
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🐼 [Curso de Pandas](https://github.com/mikemayuare/curso_de_pandas)
@@ -132,6 +145,8 @@ profile = {
 
 `Python` `Pandas` `Tutorial` `Jupyter`
 
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
